@@ -1,3 +1,5 @@
+package ArrayListAlgorithms.activities.a_ArrayListBasics;
+
 import java.util.ArrayList;
 import java.util.Collections;
 
@@ -41,5 +43,9 @@ public class GameScoreTracker {
     
     public void removeFailedAttempts() {
         // TODO: Remove all scores below 100
+    }
+
+    public static void main(String[] args) {
+        System.out.println("Hello World");
     }
 } 

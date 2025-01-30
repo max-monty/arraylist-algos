@@ -1,3 +1,5 @@
+package ArrayListAlgorithms.activities.c_Challenge;
+
 import java.util.ArrayList;
 import java.util.HashSet;
 

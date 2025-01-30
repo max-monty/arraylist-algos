@@ -1,3 +1,5 @@
+package ArrayListAlgorithms.activities.b_ParallelArrayLists;
+
 import java.util.ArrayList;
 
 public class RecipeManager {
